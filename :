@@ -1,0 +1,33 @@
+Revert "Completed and working as described"
+
+This reverts commit 470af4f72bd9575d52f7568d119b5f52f42c6957.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	deleted:    UniversalPopUp.xcodeproj/project.pbxproj
+#	deleted:    UniversalPopUp.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	deleted:    UniversalPopUp.xcodeproj/project.xcworkspace/xcuserdata/HV.xcuserdatad/UserInterfaceState.xcuserstate
+#	deleted:    UniversalPopUp.xcodeproj/xcuserdata/HV.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+#	deleted:    UniversalPopUp.xcodeproj/xcuserdata/HV.xcuserdatad/xcschemes/UniversalPopUp.xcscheme
+#	deleted:    UniversalPopUp.xcodeproj/xcuserdata/HV.xcuserdatad/xcschemes/xcschememanagement.plist
+#	deleted:    UniversalPopUp/.DS_Store
+#	deleted:    UniversalPopUp/4thViewController.h
+#	deleted:    UniversalPopUp/4thViewController.m
+#	deleted:    UniversalPopUp/AppDelegate.h
+#	deleted:    UniversalPopUp/AppDelegate.m
+#	deleted:    UniversalPopUp/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	deleted:    UniversalPopUp/Base.lproj/LaunchScreen.storyboard
+#	deleted:    UniversalPopUp/Base.lproj/Main.storyboard
+#	deleted:    UniversalPopUp/DetailsViewController.h
+#	deleted:    UniversalPopUp/DetailsViewController.m
+#	deleted:    UniversalPopUp/Info.plist
+#	deleted:    UniversalPopUp/PopUp.h
+#	deleted:    UniversalPopUp/PopUp.m
+#	deleted:    UniversalPopUp/UniversalPopUp.xcdatamodeld/.xccurrentversion
+#	deleted:    UniversalPopUp/UniversalPopUp.xcdatamodeld/UniversalPopUp.xcdatamodel/contents
+#	deleted:    UniversalPopUp/ViewController.h
+#	deleted:    UniversalPopUp/ViewController.m
+#	deleted:    UniversalPopUp/main.m
+#
